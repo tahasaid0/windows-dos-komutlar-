@@ -1,4 +1,4 @@
-# WİNDOWS CMD KOMUTLARI
+# Windows DOS Komutları
 
 Bu projede, Windows işletim sisteminde sık kullanılan 20 komut ve işlevleri ele alınmıştır.
 
