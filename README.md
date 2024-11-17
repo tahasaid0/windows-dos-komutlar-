@@ -5,20 +5,20 @@ Bu projede, Windows işletim sisteminde sık kullanılan temel 20 komut ve bu ko
 #  
 
 ### cd Komutu
-Bu komut, klasöre girmek için kullanılır.<br>
->Kullanım : cd  <Klasör_Adı>
+Bu komut, klasöre geçmek için kullanılır. <br>
+>Kullanım : `cd  <klasör_adı>`
 
 `cd`
 
 ![image](https://github.com/user-attachments/assets/249ca9fa-3683-4e1a-a608-42335416d15c)
 >[!WARNING]
->Klasör adı yazarken adını hatasız ve büyük harf küçük harf uyumuna dikkat ediniz!
+>Klasör adlarını doğru yazın ve büyük-küçük harf uyumuna dikkat edin!
 
 #
 
 ### dir Komutu
-Bu komut, dosyanın içerisindeki öğeleri listeler.<br>
->Kullanım : dir
+Bu komut, mevcut dizindeki dosya ve klasörleri listeler.<br>
+>Kullanım : `dir`
 
 `dir`
 
@@ -27,41 +27,41 @@ Bu komut, dosyanın içerisindeki öğeleri listeler.<br>
 #
 
 ### mkdir Komutu
-Bu komut, klasör içinde yeni bir klasör oluşturmak için kullanılır.<br>
->Kullanım : mkdir <Klasör_Adı>
+Bu komut, yeni bir klasör oluşturur..<br>
+>Kullanım : `mkdir <klasör_adı>`
 
 `mkdir`
 
 ![image](https://github.com/user-attachments/assets/5682e83a-8632-4cf9-b517-524ec565b1b3)
 >[!WARNING]
->Klasör adı yazarken adını hatasız ve büyük harf küçük harf uyumuna dikkat ediniz!
+>Klasör adlarını doğru yazın ve büyük-küçük harf uyumuna dikkat edin!
 #
 
 ### move Komutu
 Bu komut, bir dosyanın veya klasörün adını değiştirmeye yarar.<br>
->Kullanım : move <Klasör_Adı> <Yeni_Klasör_Adı>
+>Kullanım : `move <klasör_adı> <yeni_klasör_adı>`
 
 `move`
 
 ![image](https://github.com/user-attachments/assets/75772243-3f25-46c4-87fd-f05a32e23c45)
 >[!WARNING]
->Klasör adı yazarken adını hatasız ve büyük harf küçük harf uyumuna dikkat ediniz!
+>Klasör adlarını doğru yazın ve büyük-küçük harf uyumuna dikkat edin!
 #
 
 ### copy Komutu
 Bu komut, kopyalama işlemi için kullanılır ve bir belgeyi kopyalamaya yarar.<br>
->Kullanım : copy <Klasör_Adı> <Klasör_Adı>
+>Kullanım : `copy <klasör_adı> <klasör_adı>`
 
 `copy`
 
 ![image](https://github.com/user-attachments/assets/40386385-2afd-4820-8516-86dc5d26a2fc)
 >[!WARNING]
->Klasör adı yazarken adını hatasız ve büyük harf küçük harf uyumuna dikkat ediniz!
+>Klasör adlarını doğru yazın ve büyük-küçük harf uyumuna dikkat edin!
 #
 
 ### find Komutu
 Bu komut, bir belgede metin aramaya yarar.<br>
->Kullanım : find <metin> <Klasör_Adı>
+>Kullanım : `find <metin> <klasör_adı>`
 
 `find`
 
@@ -73,7 +73,7 @@ Bu komut, bir belgede metin aramaya yarar.<br>
 
 ### echo Komutu
 Bu komut, bir belgenin içerisine yazı eklemeye yarar.<br>
->Kullanım : echo <yazı> <Klasör_Adı>
+>Kullanım : `echo <yazı> <klasör_adı>`
 
 `echo`
 
@@ -86,18 +86,18 @@ Bu komut, bir belgenin içerisine yazı eklemeye yarar.<br>
 
 ### del Komutu
 Bu komut, dosyayı siler.<br>
->Kullanım : del <dosyaadi>
+>Kullanım : `del <dosya_adi>`
 
 `del`
 
 ![image](https://github.com/user-attachments/assets/46162fa0-f318-4c23-8661-6d7a61009f0a)
 >[!WARNING]
->Klasör adı yazarken adını hatasız ve büyük harf küçük harf uyumuna dikkat ediniz!
+>Dosya adlarını doğru yazın ve büyük-küçük harf uyumuna dikkat edin!
 #
 
 ### tasklist Komutu
 Bu komut, aktif olan işlemleri listeler.<br>
->Kullanım : tasklist
+>Kullanım : `tasklist`
 
 `tasklist`
 
@@ -107,7 +107,7 @@ Bu komut, aktif olan işlemleri listeler.<br>
 
 ### help Komutu
 Bu komut, komut listesi veya yardım alır.
->Kullanım : help
+>Kullanım : `help`
 
 `help`
 
@@ -117,7 +117,7 @@ Bu komut, komut listesi veya yardım alır.
 
 ### whoami Komutu
 Bu komut, geçerli kullanıcı bilgilerini gösterir.<br>
->Kullanım : whoami 
+>Kullanım : `whoami` 
 
 `whoami`
 
@@ -127,7 +127,7 @@ Bu komut, geçerli kullanıcı bilgilerini gösterir.<br>
 
 ### ping Komutu
 Bu komut, ağ bağlantısını test eder.<br>
->Kullanım : ping
+>Kullanım : `ping`
 
 `ping`
 
@@ -137,7 +137,7 @@ Bu komut, ağ bağlantısını test eder.<br>
 
 ### cls Komutu
 Bu komut, cmd ekranınını temizler.<br>
->Kullanım : cls
+>Kullanım : `cls`
 
 `cls`
 
@@ -150,7 +150,7 @@ Bu komut, cmd ekranınını temizler.<br>
 
 ### notepad.exe Komutu
 Bu komut, notlar uygulamasını açar.<br>
->Kullanım : notepad.exe
+>Kullanım : `notepad.exe`
 
 `notepad.exe`
 
@@ -160,7 +160,7 @@ Bu komut, notlar uygulamasını açar.<br>
 
 ### taskmgr.exe Komutu
 Bu komut görev yöneticisini açar.<br>
->Kullanım : taskmgr.exe
+>Kullanım : `taskmgr.exe`
 
 `taskmgr.exe`
 
@@ -170,7 +170,7 @@ Bu komut görev yöneticisini açar.<br>
 
 ### systeminfo Komutu
 Bu komut disk temizleme uygulamasını açar.<br>
->Kullanım : systeminfo
+>Kullanım : `systeminfo`
 
 `systeminfo`
 
@@ -180,7 +180,7 @@ Bu komut disk temizleme uygulamasını açar.<br>
 
 ### powershell Komutu
 Bu komut, PowerShell komut satırını başlatır.<br>
->Kullanım : powershell
+>Kullanım : `powershell`
 
 `powershell`
 
@@ -190,7 +190,7 @@ Bu komut, PowerShell komut satırını başlatır.<br>
 
 ### devmgmt.msc Komutu
 Bu komut aygıt yöneticisini açar.<br>
->Kullanım : devmgmt.msc
+>Kullanım : `devmgmt.msc`
 
 `devmgmt.msc`
 
@@ -200,7 +200,7 @@ Bu komut aygıt yöneticisini açar.<br>
 
 ### calc.exe Komutu
 Bu komut hesap makinesini açar.<br>
->Kullanım : calc.exe
+>Kullanım : `calc.exe`
 
 `calc.exe`
 
@@ -210,7 +210,7 @@ Bu komut hesap makinesini açar.<br>
 
 ### nslookup Komutu
 Bu komut, bir ağın DNS sorgulaması yapar.<br>
->Kullanım : nslookup
+>Kullanım : `nslookup`
 
 `nslookup`
 
@@ -220,7 +220,7 @@ Bu komut, bir ağın DNS sorgulaması yapar.<br>
 
 ### wmic Komutu
 Bu komut, sistem yönetim bilgilerini sorgular.<br>
->Kullanım : wmic cpu get caption
+>Kullanım : `wmic cpu get caption`
 
 `wmic`
 
