@@ -170,7 +170,7 @@ Bu komut disk temizleme uygulamasını açar.<br>
 
 `systeminfo`
 
-![image](https://github.com/user-attachments/assets/4ea2284c-67ad-4e12-a46d-a7c93c72aa5f)
+![image](https://github.com/user-attachments/assets/7045e160-e6dc-4846-b018-97c01819d9f9)
 
 #
 
