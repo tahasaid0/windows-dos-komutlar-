@@ -10,7 +10,7 @@ Bu komut, klasöre geçmek için kullanılır. <br>
 
 `cd`
 
-![image](https://github.com/user-attachments/assets/249ca9fa-3683-4e1a-a608-42335416d15c)
+![image](https://github.com/user-attachments/assets/f1b92a10-d136-420c-a613-76f63561f254)
 >[!WARNING]
 >Klasör adlarını doğru yazın ve büyük-küçük harf uyumuna dikkat edin!
 
