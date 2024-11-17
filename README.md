@@ -1,10 +1,10 @@
 # Windows DOS Komutları
 
-Bu projede, Windows işletim sisteminde sık kullanılan 20 komut ve işlevleri ele alınmıştır.
+Bu projede, Windows işletim sisteminde sık kullanılan temel 20 komut ve bu komutların işlevleri detaylı bir şekilde açıklanmıştır. Komut satırı gibi araçlarla yapılan bu işlemler, sistem yönetimi, dosya yönetimi ve ağ bağlantıları gibi birçok önemli görevi kolaylaştırmaktadır. Proje, kullanıcıların bu komutları verimli bir şekilde kullanarak Windows üzerinde daha etkili bir deneyim yaşamalarını amaçlamaktadır.
 
 #  
 
-### CD Komutu
+### cd Komutu
 Bu komut, klasöre girmek için kullanılır.<br>
 >Kullanım : cd  <Klasör_Adı>
 
@@ -16,7 +16,7 @@ Bu komut, klasöre girmek için kullanılır.<br>
 
 #
 
-### DİR Komutu
+### dir Komutu
 Bu komut, dosyanın içerisindeki öğeleri listeler.<br>
 >Kullanım : dir
 
@@ -26,37 +26,40 @@ Bu komut, dosyanın içerisindeki öğeleri listeler.<br>
 
 #
 
-### MKDİR Komutu
+### mkdir Komutu
 Bu komut, klasör içinde yeni bir klasör oluşturmak için kullanılır.<br>
 >Kullanım : mkdir <Klasör_Adı>
 
 `mkdir`
 
 ![image](https://github.com/user-attachments/assets/5682e83a-8632-4cf9-b517-524ec565b1b3)
-
+>[!WARNING]
+>Klasör adı yazarken adını hatasız ve büyük harf küçük harf uyumuna dikkat ediniz!
 #
 
-### MOVE Komutu
+### move Komutu
 Bu komut, bir dosyanın veya klasörün adını değiştirmeye yarar.<br>
 >Kullanım : move <Klasör_Adı> <Yeni_Klasör_Adı>
 
 `move`
 
 ![image](https://github.com/user-attachments/assets/75772243-3f25-46c4-87fd-f05a32e23c45)
-
+>[!WARNING]
+>Klasör adı yazarken adını hatasız ve büyük harf küçük harf uyumuna dikkat ediniz!
 #
 
-### COPY Komutu
+### copy Komutu
 Bu komut, kopyalama işlemi için kullanılır ve bir belgeyi kopyalamaya yarar.<br>
 >Kullanım : copy <Klasör_Adı> <Klasör_Adı>
 
 `copy`
 
 ![image](https://github.com/user-attachments/assets/40386385-2afd-4820-8516-86dc5d26a2fc)
-
+>[!WARNING]
+>Klasör adı yazarken adını hatasız ve büyük harf küçük harf uyumuna dikkat ediniz!
 #
 
-### FİND Komutu
+### find Komutu
 Bu komut, bir belgede metin aramaya yarar.<br>
 >Kullanım : find <metin> <Klasör_Adı>
 
@@ -68,7 +71,7 @@ Bu komut, bir belgede metin aramaya yarar.<br>
 
 #
 
-### ECHO Komutu
+### echo Komutu
 Bu komut, bir belgenin içerisine yazı eklemeye yarar.<br>
 >Kullanım : echo <yazı> <Klasör_Adı>
 
@@ -81,17 +84,18 @@ Bu komut, bir belgenin içerisine yazı eklemeye yarar.<br>
 
 #
 
-### DEL Komutu
+### del Komutu
 Bu komut, dosyayı siler.<br>
 >Kullanım : del <dosyaadi>
 
 `del`
 
 ![image](https://github.com/user-attachments/assets/46162fa0-f318-4c23-8661-6d7a61009f0a)
-
+>[!WARNING]
+>Klasör adı yazarken adını hatasız ve büyük harf küçük harf uyumuna dikkat ediniz!
 #
 
-### TASKLIST Komutu
+### tasklist Komutu
 Bu komut, aktif olan işlemleri listeler.<br>
 >Kullanım : tasklist
 
@@ -101,7 +105,7 @@ Bu komut, aktif olan işlemleri listeler.<br>
 
 #
 
-### HELP Komutu
+### help Komutu
 Bu komut, komut listesi veya yardım alır.
 >Kullanım : help
 
@@ -111,7 +115,7 @@ Bu komut, komut listesi veya yardım alır.
 
 #
 
-### WHOAMİ Komutu
+### whoami Komutu
 Bu komut, geçerli kullanıcı bilgilerini gösterir.<br>
 >Kullanım : whoami 
 
@@ -121,7 +125,7 @@ Bu komut, geçerli kullanıcı bilgilerini gösterir.<br>
 
 #
 
-### PİNG Komutu
+### ping Komutu
 Bu komut, ağ bağlantısını test eder.<br>
 >Kullanım : ping
 
@@ -131,7 +135,7 @@ Bu komut, ağ bağlantısını test eder.<br>
 
 #
 
-### CLS Komutu
+### cls Komutu
 Bu komut, cmd ekranınını temizler.<br>
 >Kullanım : cls
 
@@ -144,7 +148,7 @@ Bu komut, cmd ekranınını temizler.<br>
 >
 #
 
-### Notepad.exe Komutu
+### notepad.exe Komutu
 Bu komut, notlar uygulamasını açar.<br>
 >Kullanım : notepad.exe
 
@@ -154,7 +158,7 @@ Bu komut, notlar uygulamasını açar.<br>
 
 #
 
-### Taskmgr.exe Komutu
+### taskmgr.exe Komutu
 Bu komut görev yöneticisini açar.<br>
 >Kullanım : taskmgr.exe
 
@@ -164,7 +168,7 @@ Bu komut görev yöneticisini açar.<br>
 
 #
 
-### SYSTEMİNFO Komutu
+### systeminfo Komutu
 Bu komut disk temizleme uygulamasını açar.<br>
 >Kullanım : systeminfo
 
@@ -174,7 +178,7 @@ Bu komut disk temizleme uygulamasını açar.<br>
 
 #
 
-### POWERSHELL Komutu
+### powershell Komutu
 Bu komut, PowerShell komut satırını başlatır.<br>
 >Kullanım : powershell
 
@@ -184,7 +188,7 @@ Bu komut, PowerShell komut satırını başlatır.<br>
 
 #
 
-### Devmgmt.msc Komutu
+### devmgmt.msc Komutu
 Bu komut aygıt yöneticisini açar.<br>
 >Kullanım : devmgmt.msc
 
@@ -194,7 +198,7 @@ Bu komut aygıt yöneticisini açar.<br>
 
 #
 
-### Calc.exe Komutu
+### calc.exe Komutu
 Bu komut hesap makinesini açar.<br>
 >Kullanım : calc.exe
 
@@ -204,7 +208,7 @@ Bu komut hesap makinesini açar.<br>
 
 #
 
-### NSLOOKUP Komutu
+### nslookup Komutu
 Bu komut, bir ağın DNS sorgulaması yapar.<br>
 >Kullanım : nslookup
 
@@ -214,7 +218,7 @@ Bu komut, bir ağın DNS sorgulaması yapar.<br>
 
 #
 
-### WMİC Komutu
+### wmic Komutu
 Bu komut, sistem yönetim bilgilerini sorgular.<br>
 >Kullanım : wmic cpu get caption
 
